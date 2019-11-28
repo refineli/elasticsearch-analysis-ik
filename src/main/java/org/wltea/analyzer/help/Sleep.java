@@ -1,7 +1,7 @@
 package org.wltea.analyzer.help;
 
 import org.apache.logging.log4j.Logger;
-import org.elasticsearch.common.logging.ESLoggerFactory;
+import org.wltea.analyzer.log.ESLoggerFactory;
 
 public class Sleep {
 
